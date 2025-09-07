@@ -18,17 +18,17 @@ A command-line interface (CLI) Python script to convert currencies in real-time.
 - Python 3.x
 - `requests` library
 
-```bash
-pip install requests
-```
+   ```bash
+   pip install requests
+   ```
 
 ### How to Run
 1. Clone the repository.
 2. Run the script:
 
-```bash
-python currency_coverter_api.py
-```
+   ```bash
+   python currency_coverter_api.py
+   ```
 
 3. Follow prompts in the terminal:
    - Enter the **source currency** (e.g., USD)
@@ -55,17 +55,17 @@ A Python GUI application built with **Tkinter**. Users can input currencies and 
 - `requests` library
 - `tkinter` (usually comes pre-installed with Python)
 
-```bash
-pip install requests
-```
+   ```bash
+   pip install requests
+   ```
 
 ### How to Run
 1. Clone the repository.
 2. Run the script:
 
-```bash
-python currency_coverter_GUI_gui.py
-```
+   ```bash
+   python currency_coverter_GUI.py
+   ```
 
 3. Use the GUI to:
    - Enter **From Currency** (e.g., USD)
@@ -83,13 +83,10 @@ python currency_coverter_GUI_gui.py
 ## Screenshots
 
 **CLI Version:**  
-
-![CLI Screenshot](CLI Screenshot.png)
-
+![CLI Screenshot](https://github.com/imranc07/python-live-currency-converter/blob/main/Version_01/cli_screenshot.png)
 
 **GUI Version:**  
-
-![GUI Screenshot](GUI Screenshot.png) 
+![GUI Screenshot](https://github.com/imranc07/python-live-currency-converter/blob/main/Version_02/gui-screenshot.png)
 
 ---
 
